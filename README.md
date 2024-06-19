@@ -8,7 +8,8 @@ A program to find out where in the commencement video you may be hiding!
 - Python-tesseract
 
 
-Make sure to modify the `video_path` variable in `main.py` to point to the video file you want to analyze.
+Make sure to modify the `video_path` variable in `find.py` to point to the video file you want to analyze.
 
-GLHF!
-```
+GLHF! 
+
+😀
